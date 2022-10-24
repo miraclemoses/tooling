@@ -31,7 +31,7 @@ Update the application code in
 ```
 
 Then add/commit/push to gitlab
-
+ckecking artifact server
 ```
 git status # to see your changes
 ```
